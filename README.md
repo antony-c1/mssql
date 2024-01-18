@@ -4,4 +4,4 @@
 # Table Of Content
 ## Basic
 ## Advance
-1. [Store Procedure]()
+1. [Store Procedure](./advance/store_procedure.md)
