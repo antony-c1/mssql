@@ -4,4 +4,4 @@
 # Table Of Content
 ## Basic
 ## Advance
-* [Store Procedure]()
+1. [Store Procedure]()
