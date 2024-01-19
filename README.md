@@ -10,4 +10,4 @@
 1. [Store Procedure](./advance/store_procedure.md)
 
 ## Function
-1. [OBJECT_ID](/function/object_id)
+1. [OBJECT_ID](/function/OBJECT_ID.md)
