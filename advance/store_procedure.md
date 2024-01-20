@@ -45,11 +45,11 @@ Remember to adapt the stored procedure based on your specific requirements and t
 
 ## Nmaing Store Procedure
 Simply Use `sp` (stored Procedure) or `usp` (User Stored Procedure) for the **Prefix** or `csp` (Custom Stored Procedure) to increase the readability and maintainability.
+
 <details>
     <summary>More Info</summary>
 
-
-    Naming conventions for stored procedures, like any other code elements, help improve readability, maintainability, and consistency across your database. While specific conventions can vary between organizations and developers, here are some common practices for naming stored procedures in Microsoft SQL Server:
+Naming conventions for stored procedures, like any other code elements, help improve readability, maintainability, and consistency across your database. While specific conventions can vary between organizations and developers, here are some common practices for naming stored procedures in Microsoft SQL Server:
 
 1. **Prefix:**
    - Consider using a consistent prefix to distinguish stored procedures from other database objects. Common prefixes include `usp_` (user stored procedure) or `sproc_`.
