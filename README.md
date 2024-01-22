@@ -18,6 +18,7 @@
 
 ## Basic
 1. [BEGIN & END](./basic/begin-end.md)
+2. [WHILE](basic/while.md)
 
 
 ## Advance
