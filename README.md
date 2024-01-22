@@ -3,6 +3,8 @@
 
 ![image](https://github.com/Antony-M1/mssql/assets/96291963/ddf095cd-1e1c-4fbd-a22e-1177d02953d2)
 
+## Reference Tutorials
+1. [SQL Server - How to use SQL Profiler | FoxLearn](https://www.youtube.com/watch?v=mkGoK8X0X3o)
 
 # Table Of Content
 ## Keyword
