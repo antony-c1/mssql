@@ -29,3 +29,4 @@
 ## Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
+3. [ISNULL](function/isnull.md)
