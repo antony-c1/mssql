@@ -35,3 +35,5 @@ FROM sys.dm_sql_referencing_entities('dbo.MyTable', 'OBJECT');
 ```
 
 While `sp_depends` can still be useful, especially in older versions of SQL Server, it's a good practice to be aware of the more modern alternatives available in newer versions of SQL Server.
+
+![image](https://github.com/Antony-M1/mssql/assets/96291963/3a051edb-ce3b-434f-b26b-603f31c8e407)
