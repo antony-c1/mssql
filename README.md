@@ -7,30 +7,35 @@
 1. [SQL Server - How to use SQL Profiler | FoxLearn](https://www.youtube.com/watch?v=mkGoK8X0X3o)
 
 # Table Of Content
-## Keyword
+### Keyword
 1. [USE](./keyword/use.md)
 
 
-## Property
+### Property
 1. [IDENTITY](./property/identity.md)
 2. [Variables](./property/variables.md)
 
 
-## Basic
+### Basic
 1. [BEGIN & END](./basic/begin-end.md)
 2. [WHILE](basic/while.md)
 3. [TOP, LIMIT, FETCH FIRST, ROWNUM](basic/TOP-LIMIT-FETCH_FIRST-ROWNUM.md)
 
 
-## Advance
+### Advance
 1. [Store Procedure](./advance/store_procedure.md)
 2. [BEGIN TRAN, ROLLBACK, COMMIT](./advance/advancebegin-tran-rollback-commit.md)
 3. [Function](advance/function.md)
 
-## Function
+### Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
 3. [ISNULL](function/isnull.md)
 
-# Procedure
+### Procedure
 1. [sp_depends](procedure/sp_depends.md)
+
+# Debugger
+* [How to debug SQL code](https://www.youtube.com/watch?v=wng_eetygXM)
+* [Stored Procedure debugging in sql | sql debugging stored procedures](https://www.youtube.com/watch?v=BDswTNxnFAA)
+* [How to: Debug Database Objects](https://learn.microsoft.com/en-us/sql/ssdt/how-to-debug-database-objects?view=sql-server-ver16)
