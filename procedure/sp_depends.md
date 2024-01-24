@@ -11,7 +11,7 @@ Here is a brief overview of the use of `sp_depends`:
    EXEC sp_depends 'MyTable';
    ```
 
-   This will return a list of objects that depend on `MyTable`, such as views, stored procedures, or triggers.
+   This will return a list of objects that depend on `MyTable`, such as `views`, `stored procedures`, or `triggers`.
 
 2. **Finding Objects on which a Specific Object Depends:**
    You can use `sp_depends` to find objects on which a specific object depends. For example, to find objects on which a stored procedure named `MyStoredProcedure` depends, you would execute:
