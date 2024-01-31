@@ -37,6 +37,9 @@
 2. [sp_columns](procedure/sp_columns.md)
 3. [sp_help](procedure/sp_help.md)
 4. [sp_helpconstraint](procedure/sp_helpconstraint.md)
+5. [sp_helpindex](procedure/sp_helpindex.md)
+6. [sp_tables](procedure/sp_tables.md)
+7. [sp_stored_procedures](procedure/sp_stored_procedures.md)
 # Debugger
 * [How to debug SQL code](https://www.youtube.com/watch?v=wng_eetygXM)
 * [Stored Procedure debugging in sql | sql debugging stored procedures](https://www.youtube.com/watch?v=BDswTNxnFAA)
