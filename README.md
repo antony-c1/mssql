@@ -36,6 +36,7 @@
 1. [sp_depends](procedure/sp_depends.md)
 2. [sp_columns](procedure/sp_columns.md)
 3. [sp_help](procedure/sp_help.md)
+4. [sp_helpconstraint](procedure/sp_helpconstraint.md)
 # Debugger
 * [How to debug SQL code](https://www.youtube.com/watch?v=wng_eetygXM)
 * [Stored Procedure debugging in sql | sql debugging stored procedures](https://www.youtube.com/watch?v=BDswTNxnFAA)
