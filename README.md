@@ -26,7 +26,7 @@
 1. [Store Procedure](./advance/store_procedure.md)
 2. [BEGIN TRAN, ROLLBACK, COMMIT](./advance/advancebegin-tran-rollback-commit.md)
 3. [Function](advance/function.md)
-
+4. [SET NOCOUNT](advance/SET-NOCOUNT.md)
 ### Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
