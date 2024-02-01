@@ -1,5 +1,7 @@
 # SET NOCOUNT
 
+[Documentation](https://learn.microsoft.com/en-us/sql/t-sql/statements/set-nocount-transact-sql?view=sql-server-ver16)
+
 The `SET NOCOUNT` statement is used in Transact-SQL (T-SQL) to control the message returned to the client about the number of rows affected by a Transact-SQL statement. When `SET NOCOUNT` is turned ON, the message indicating the number of rows affected is not sent to the client.
 
 Here's how it works:
