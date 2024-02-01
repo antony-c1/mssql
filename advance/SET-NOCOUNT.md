@@ -30,7 +30,7 @@ In the example above, `SET NOCOUNT ON;` is used to suppress the row count messag
 <details>
     <summary>can procedure contain only this <b>`SET NOCOUNT ON</b>?</summary>
 
-    Yes, a stored procedure can indeed contain only the `SET NOCOUNT ON` statement. This is especially common when the stored procedure doesn't return any result sets and its primary purpose is to perform some operations without sending row count messages to the client.
+Yes, a stored procedure can indeed contain only the `SET NOCOUNT ON` statement. This is especially common when the stored procedure doesn't return any result sets and its primary purpose is to perform some operations without sending row count messages to the client.
 
 Here's an example of a simple stored procedure with just the `SET NOCOUNT ON` statement:
 
