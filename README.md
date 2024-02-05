@@ -27,6 +27,7 @@
 2. [BEGIN TRAN, ROLLBACK, COMMIT](./advance/advancebegin-tran-rollback-commit.md)
 3. [Function](advance/function.md)
 4. [SET NOCOUNT](advance/SET-NOCOUNT.md)
+5. [TRY..CATCH](advance/TRY-CATCH.md)
 ### Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
