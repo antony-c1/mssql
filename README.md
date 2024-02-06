@@ -78,3 +78,5 @@ Overall, the restore operation is essential for maintaining data integrity and e
 # SSRS Report
 
 **SSRS** stands for `SQL Server Reporting Services`. It is a `server-based` report generation software system from `Microsoft`. It provides a set of tools and services that enable the creation, management, and delivery of interactive and `printed reports`. `SSRS` allows users to design reports using various data sources, including relational databases like `Microsoft SQL Server`, `Oracle`, `MySQL`, and others.
+
+**Note:** `SSRS` is old technology for `generating` and `publishing` reports based on the programming and coding interface. In contrast, `Power BI` is more friendly, advanced, easy to use, and has more graphical and visualization tools.
