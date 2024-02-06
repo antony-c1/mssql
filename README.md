@@ -56,6 +56,9 @@ You can create backups using SQL Server Management Studio (SSMS) or by running T
 **YouTupe**
 * [How To Backup A Database in Microsoft SQL Server (MSSQL) Management Studio [English 2020]](https://www.youtube.com/watch?v=S6uo4_f0Gvw)
 
+### Schedule Backup
+* [Scheduled Automatic SQL Database Backup using SSMS](https://www.youtube.com/watch?v=D0zuWkBdedI)
+
 # Restore
 In Microsoft SQL Server (MSSQL), "restore" refers to the process of recovering a database from a backup file. It involves taking a previously created backup of a database and restoring it to its original state or to a new location. This is a critical operation in database management, often used to recover from data loss, corruption, or other disasters.
 
