@@ -52,3 +52,6 @@ In Microsoft SQL Server, the backup file extension is typically `.bak`. When you
 For example, if you perform a backup of a database named `MyDatabase`, the resulting backup file might be named something like `MyDatabase.bak`.
 
 You can create backups using SQL Server Management Studio (SSMS) or by running T-SQL commands such as `BACKUP DATABASE` or `BACKUP LOG`.
+
+**YouTupe**
+* [How To Backup A Database in Microsoft SQL Server (MSSQL) Management Studio [English 2020]](https://www.youtube.com/watch?v=S6uo4_f0Gvw)
