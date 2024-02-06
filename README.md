@@ -55,3 +55,16 @@ You can create backups using SQL Server Management Studio (SSMS) or by running T
 
 **YouTupe**
 * [How To Backup A Database in Microsoft SQL Server (MSSQL) Management Studio [English 2020]](https://www.youtube.com/watch?v=S6uo4_f0Gvw)
+
+# Restore
+In Microsoft SQL Server (MSSQL), "restore" refers to the process of recovering a database from a backup file. It involves taking a previously created backup of a database and restoring it to its original state or to a new location. This is a critical operation in database management, often used to recover from data loss, corruption, or other disasters.
+
+During a restore operation, the backup file (typically with a `.bak` extension) is read and its contents are used to recreate the database, including its tables, indexes, stored procedures, and other objects. The restore process can overwrite an existing database or create a new one, depending on the options chosen.
+
+There are different types of restore operations in MSSQL, including:
+- **Full Restore**: Recovers the entire database from a full backup.
+- **Differential Restore**: Restores only the data that has changed since the last full backup.
+- **Transaction Log Restore**: Recovers the database to a specific point in time by applying transaction log backups.
+- **Filegroup Restore**: Recovers only specific filegroups within a database.
+
+Overall, the restore operation is essential for maintaining data integrity and ensuring that databases can be recovered in case of unexpected failures or errors.
