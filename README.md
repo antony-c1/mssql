@@ -74,3 +74,7 @@ Overall, the restore operation is essential for maintaining data integrity and e
 
 **YouTube**
 * [SQL Server 2019 - SSMS 2018 - Backup and Restore Databases From One Server To Another server](https://www.youtube.com/watch?v=B9-bpeNZnVs)
+
+# SSRS Report
+
+**SSRS** stands for `SQL Server Reporting Services`. It is a `server-based` report generation software system from `Microsoft`. It provides a set of tools and services that enable the creation, management, and delivery of interactive and `printed reports`. `SSRS` allows users to design reports using various data sources, including relational databases like `Microsoft SQL Server`, `Oracle`, `MySQL`, and others.
