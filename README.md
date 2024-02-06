@@ -68,3 +68,6 @@ There are different types of restore operations in MSSQL, including:
 - **Filegroup Restore**: Recovers only specific filegroups within a database.
 
 Overall, the restore operation is essential for maintaining data integrity and ensuring that databases can be recovered in case of unexpected failures or errors.
+
+**YouTube**
+* [SQL Server 2019 - SSMS 2018 - Backup and Restore Databases From One Server To Another server](https://www.youtube.com/watch?v=B9-bpeNZnVs)
