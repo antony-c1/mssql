@@ -20,7 +20,7 @@
 1. [BEGIN & END](./basic/begin-end.md)
 2. [WHILE](basic/while.md)
 3. [TOP, LIMIT, FETCH FIRST, ROWNUM](basic/TOP-LIMIT-FETCH_FIRST-ROWNUM.md)
-4. [NULL LAST]()
+4. [NULL LAST](basic/null-last.md)
 
 
 ### Advance
