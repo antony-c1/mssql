@@ -42,6 +42,8 @@
 5. [sp_helpindex](procedure/sp_helpindex.md)
 6. [sp_tables](procedure/sp_tables.md)
 7. [sp_stored_procedures](procedure/sp_stored_procedures.md)
+8. [sp_executesql]()
+
 # Debugger
 * [How to debug SQL code](https://www.youtube.com/watch?v=wng_eetygXM)
 * [Stored Procedure debugging in sql - sql debugging stored procedures](https://www.youtube.com/watch?v=BDswTNxnFAA)
