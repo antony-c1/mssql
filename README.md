@@ -30,10 +30,12 @@
 3. [Function](advance/function.md)
 4. [SET NOCOUNT](advance/SET-NOCOUNT.md)
 5. [TRY..CATCH](advance/TRY-CATCH.md)
+
 ### Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
 3. [ISNULL](function/isnull.md)
+4. [REPLACE](function/replace.md)
 
 ### System Procedure
 1. [sp_depends](procedure/sp_depends.md)
