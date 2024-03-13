@@ -21,6 +21,7 @@
 2. [WHILE](basic/while.md)
 3. [TOP, LIMIT, FETCH FIRST, ROWNUM](basic/TOP-LIMIT-FETCH_FIRST-ROWNUM.md)
 4. [NULL LAST](basic/null-last.md)
+5. [N-prefix](basic/N-prefix.md)
 
 
 ### Advance
@@ -29,10 +30,12 @@
 3. [Function](advance/function.md)
 4. [SET NOCOUNT](advance/SET-NOCOUNT.md)
 5. [TRY..CATCH](advance/TRY-CATCH.md)
+
 ### Function
 1. [OBJECT_ID](/function/OBJECT_ID.md)
 2. [DATE & TIME](function/date-and-time.md)
 3. [ISNULL](function/isnull.md)
+4. [REPLACE](function/replace.md)
 
 ### System Procedure
 1. [sp_depends](procedure/sp_depends.md)
@@ -42,6 +45,8 @@
 5. [sp_helpindex](procedure/sp_helpindex.md)
 6. [sp_tables](procedure/sp_tables.md)
 7. [sp_stored_procedures](procedure/sp_stored_procedures.md)
+8. [sp_executesql](procedure/sp_executesql.md)
+
 # Debugger
 * [How to debug SQL code](https://www.youtube.com/watch?v=wng_eetygXM)
 * [Stored Procedure debugging in sql - sql debugging stored procedures](https://www.youtube.com/watch?v=BDswTNxnFAA)
